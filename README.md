@@ -69,7 +69,7 @@ Requisitos: **JDK 17 o superior** y **Maven** instalados.
    mvn spring-boot:run
    ```
    En **VS Code**: abrir la carpeta `bibliotecas-backend`, instalar las extensiones recomendadas (*Extension Pack for Java* y *Spring Boot Extension Pack*) y ejecutar `BibliotecasBackendApplication` con el botón **Run**, o usar la terminal con `mvn spring-boot:run`.
-3. La API queda disponible en **http://localhost:8080**.
+3. La API queda disponible en **http://localhost:8080/bibliotecas**.
 
 Para correr las pruebas: `mvn test`.
 
