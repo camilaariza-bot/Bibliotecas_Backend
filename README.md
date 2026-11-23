@@ -1,4 +1,4 @@
-# bibliotecas-backend
+# Biblioteca_Bckend 
 
 API REST en **Java + Spring Boot** para gestionar una red de bibliotecas y consultar los libros asociados a cada una.
 
